@@ -11,11 +11,11 @@ Serverless Framework は AWS Lambda をはじめとするサーバーレス環�
 https://github.com/serverless/serverless/
 
 しかし、v4 系のリリース以降、OSS としての透明性に関する問題が指摘されていました。
-この記事では、Serverless Framework v4 で何が起こっていたのか、そして 2024 年 12 月のコミットで何が変わったのかを整理したいと思います。
+この記事では、Serverless Framework v4 で何が起こっていたのか、そして 2025 年 12 月のコミットで何が変わったのかを整理したいと思います。
 
 ## 何が起こっていたのか
 
-2024 年初頭から、Serverless Framework のリポジトリで通常とは異なる状態が続いていました。
+2024 年中頃から、Serverless Framework のリポジトリで通常とは異なる状態が続いていました。
 
 - v4 系のリリースは継続的に公開されていた
 - しかし、GitHub 上のソースコードは長期間更新されていなかった
