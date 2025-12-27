@@ -2,7 +2,7 @@
 title: "Serverless Framework は再び OSS になったのか"
 emoji: "⚡"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["serverless", "oss", "aws", "iac"]
+topics: ["serverlessframewor", "serverless", "oss", "aws", "iac"]
 published: true
 ---
 
