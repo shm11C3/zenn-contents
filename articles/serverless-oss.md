@@ -3,7 +3,7 @@ title: "Serverless Framework は再び OSS になったのか"
 emoji: "⚡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["serverless", "oss", "aws", "iac"]
-published: false
+published: true
 ---
 
 Serverless Framework は AWS Lambda をはじめとするサーバーレス環境のデプロイを支援するツールとして、長年多くの開発者に利用されてきました。
