@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "new": "zenn new:article"
+    "new": "zenn new:article",
+    "preview": "zenn preview",
+    "lint": "markdownlint 'articles/*.md' --config ./md-lint.json"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,8 @@
   "homepage": "https://github.com/shm11C3/zenn-contents#readme",
   "dependencies": {
     "zenn-cli": "^0.2.11"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.47.0"
   }
 }
