@@ -3,7 +3,7 @@ title: "md-hinagata を作っている話：Markdown を HTML の型紙に通す
 emoji: "#️⃣"
 type: "tech"
 topics: ["vscode", "markdown", "rust", "oss", "生成ai"]
-published: false
+published: true
 ---
 
 :::message
@@ -67,10 +67,10 @@ flowchart LR
 
 たとえば、同じ Markdown でも、テーマを変えることで CMS 向け、社内 Wiki 向け、ヘルプセンター向け、メールマガジン向けの HTML に変換できるようにしたいと考えています。
 
-![md-hinagata のロゴ](https://static.zenn.studio/user-upload/4f53fe5cf611-20260530.png)
-
 ロゴは、Markdown で使う記号を組み合わせて、漢字の「形」をイメージして作成しました。
 Markdown の軽さを残しながら、出力の「形」を整えるという、この拡張機能の方向性にも合わせています。
+
+![md-hinagata のロゴ](https://static.zenn.studio/user-upload/4f53fe5cf611-20260530.png)
 
 - Repository: https://github.com/shm11C3/md-hinagata
 - VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=Shm11C3.md-hinagata-vscode-extension
