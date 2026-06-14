@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/shm11C3/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.4.8"
+    "zenn-cli": "^0.5.0"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.47.0"
