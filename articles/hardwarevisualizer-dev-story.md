@@ -116,6 +116,7 @@ flowchart LR
 | 共通の CPU / メモリ / ストレージ情報 | sysinfo |
 | Windows のメモリ / システム情報 | WMI |
 | Windows の GPU エンジン使用率 | PDH |
+| Windows の CPU 温度 | PawnIO（対応環境のみ）/ ACPI Thermal Zone |
 | NVIDIA GPU | NVAPI |
 | AMD GPU | ADL / DXGI |
 | Intel GPU | DXGI |
