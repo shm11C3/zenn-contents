@@ -35,6 +35,12 @@ Windows / macOS / Linux に対応しており、現在は [公式サイト](http
 - ダッシュボード、テーマ、背景画像のカスタマイズ
 - 日本語 / 英語対応
 
+現在値を見るダッシュボードだけでなく、直近の使用率グラフや過去データを振り返るインサイト画面も用意しています。
+
+![使用率グラフ](/images/hardwarevisualizer-dev-story/usage-graph.png)
+
+![インサイト画面](/images/hardwarevisualizer-dev-story/insights.png)
+
 2024年6月に開発を始め、2024年10月に初回リリースを出しました。この記事を書いている 2026年6月時点では、v1.8 系までリリースしています。
 
 ## 作ったきっかけ
